@@ -37,7 +37,7 @@ O principal objectivo é **identificar períodos de maior e menor fluxo turísti
 
 3. **Instalar as dependências:**
 
-    ```pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 4. **Executar o Jupyter Notebook:**
