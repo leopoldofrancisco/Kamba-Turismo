@@ -31,18 +31,18 @@ O principal objectivo é **identificar períodos de maior e menor fluxo turísti
 
 2. **Criar um ambiente virtual (opcional, mas recomendado):**
 
-python -m venv venv
-source venv/bin/activate  # no Windows: venv\Scripts\activate
+    ```python -m venv venv
+    source venv/bin/activate  # no Windows: venv\Scripts\activate
 
 
 3. **Instalar as dependências:**
 
-pip install -r requirements.txt
+    ```pip install -r requirements.txt
 
 
 4. **Executar o Jupyter Notebook:**
 
-jupyter notebook
+    jupyter notebook
 
 
 > **Observação:** Depois, abre o notebook desejado (ex: 02_modelos_series_temporais.ipynb).
