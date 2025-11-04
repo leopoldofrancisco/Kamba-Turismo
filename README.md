@@ -1,7 +1,7 @@
 # Kamba-Turismo
 # 🌍 Análise de Fluxo Turístico Sustentável em Angola
 
-Este projecto analisa os padrões de entrada e saída de turistas em diferentes províncias de Angola, no período de **2019 a 2022**, com o objectivo de compreender tendências sazonais e apoiar políticas de desenvolvimento turístico sustentável.
+Este projecto analisa os padrões de entrada e saída de turistas em diferentes províncias de Angola, no período de **2010 a 2023**, com o objectivo de compreender tendências sazonais e apoiar políticas de desenvolvimento turístico sustentável.
 
 ---
 
