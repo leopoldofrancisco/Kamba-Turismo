@@ -45,4 +45,4 @@ O principal objectivo é **identificar períodos de maior e menor fluxo turísti
     jupyter notebook
 
 
-> **Observação:** Depois, abre o notebook desejado (ex: 02_modelos_series_temporais.ipynb).
+> **Observação:** Depois, abre o notebook desejado (ex: Grupo3.ipynb).
